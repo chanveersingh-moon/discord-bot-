@@ -1,0 +1,6 @@
+--INSTALL THESE MODULES TO RUN THIS PROJECT--
+
+    pip install discord.py
+    pip install transformers
+    pip install torch
+    pip install sentencepiece
